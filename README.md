@@ -17,7 +17,6 @@ A comprehensive Course Selling App backend built using Node.js, Express, and Mon
 - [Authentication](#authentication)
 - [Database Schema](#database-schema)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
